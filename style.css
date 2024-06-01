@@ -1,0 +1,29 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.Count{
+    font-size: 3rem;
+    font-weight: bold;
+    margin-top: 10px;
+}
+button{
+    background-color: rgb(175, 246, 248);
+    font-size: 1.3rem;
+    padding: 10px 15px;
+    font-weight: bold;
+    margin: 23px 0;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+input {
+    width: 5rem;
+    height: 2rem;
+    font-size: 1rem;
+  }
+  
+  .change {
+    margin: 1rem 0;
+  }
